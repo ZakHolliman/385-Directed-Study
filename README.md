@@ -8,4 +8,4 @@ Half of the time spent on this course was dedicated to learning how to use the M
 Notes taken while studying the MSP430 can be found on the Wiki
 
 # Building a CPU
-The other half of the course is spent on building a CPU from scratch with hardware
+The other half of the course is spent on building a CPU from scratch using Logisim.
